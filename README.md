@@ -18,3 +18,8 @@ Generative_AI_Research_49392085/
 └── .git/ # Git repository configuration files
 ```
 
+## How to Contribute
+1. Clone or fork the repository.  
+2. Create a new branch for your changes.  
+3. Make edits and commit with clear messages.  
+4. Submit a pull request for review.  
